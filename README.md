@@ -26,6 +26,10 @@ In today's competitive financial landscape, understanding customer demographics,
 4. **Occupation and Gender Analysis**
    - Visualization: A grouped bar chart representing the distribution of customers based on their occupations and gender.
    - Insights: Gain insights into both the primary occupations of customers and the gender distribution, aiding in targeted financial product development.
+  
+
+
+
    ![Occupation and Gender Analysis](img/b4.png)
 
 
